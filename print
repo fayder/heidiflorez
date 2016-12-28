@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Heidi Florez Herrera Resume</title>
+     <meta charset="utf-8"/>
+     <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+     <link rel="stylesheet" type="text/css" href="css/print.css" />
+     <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <div id="page-wrap">
+        
+        <div id="contact-info" class="vcard">
+        
+            <!-- Microformats! -->
+        
+            <h1 class="fn">Heidi Florez Herrera</h1>
+            <span style="padding-right: 20px;">
+                <i class="fa fa-envelope-o"> herrera.florez(at)go.shoreline.edu</i>
+            </span>
+            <span style="padding-right: 20px;">
+                <i class="fa fa-phone"> 425 5537324</i>
+            </span>
+            <span style="padding-right: 20px;">
+                <i class="fa fa-globe"> https://heidiflorez.com</i>
+            </span>
+        </div>
+                
+        <div id="objective" class="summary">
+            <p>
+               I am 28 years old Colombian. I have a strong sense of responsibility, honesty and sincerity with my personal and work life. I am proactive, flexible and able to work in team. Professionally, I have worked in the area of education (nursery to pre-school) for 10 years. I feel comfortable planning academic projects and working in groups. In addition to the management of English college level for teaching and working with all ages.
+            </p>
+            <p>
+                Similarly, to my teaching experience. The au pair program for two years have provided me with the knowledge of the specific needs of the children in a family environment. This environment can affect the conduct of the child positively or negatively at school. 
+            </p>
+        </div>
+        
+        <div class="clear"></div>
+        
+        <dl>
+            <dd class="clear"></dd>
+            
+           <dt>Skills</dt>
+            <dd>
+                <ul>
+                  <li>Planning fun and recreation programs.</li>
+                  <li>Techniques and instruments to evaluate the learning process.</li>
+                  <li>Child pedagogy.</li>
+                  <li>Preparation of study plans. (Pedagogic projects)</li>
+                  <li>Group management.</li>
+                </ul>        
+            </dd>
+
+            <dd class="clear"></dd>
+
+            <dt>Experience</dt>
+            <dd>
+                <h2>
+                    <a href="#">Concepcion Cartagena School</a>
+                    <span>Lead Teacher Jan 2016 - Jun 2016</span>
+                </h2>
+                <p>Kindergarten</p>
+            </dd>
+            <dd>
+                <h2>
+                    <a href="https://culturalcare.com/">Au Pair Cultural Care Agency</a>
+                    <span>Live in Nanny May 2013 – May 2015</span>
+                </h2>
+            </dd>
+            <dd>
+                <h2>
+                    <a href="#">Gimnasio Howard Gardner</a>
+                    <span>Lead teacher Jan 2009 – Dec 2012</span>
+                </h2>
+                <p>Nursery to Kindergarten</p>
+            </dd>
+
+            <dd class="clear"></dd>
+
+            <dt>Education</dt>
+            <dd>
+                <h2><a href="http://usbcartagena.edu.co/">Universidad de San Buenaventura</a> - Cartagena, Colombia</h2>
+                <p>
+                    Major: <strong>Early Childhood Education</strong> <br />
+                    Graduation Year: <strong>2012</strong>
+                </p>
+            </dd>
+            <dd>
+              <h2><a href="http://www.shoreline.edu/">Shoreline Community College</a> - Seattle, WA</h2>
+              <p>Acc. Early Childhood Education<br/>Sept 2016 - Present</p>
+            </dd>          
+            
+            <dd>
+              <h2><a href="https://northseattle.edu/">North Seattle Community College</a> - Seattle, WA</h2>
+              <p>Children’s Book Illustration<br/>20 hours - 2014</p>
+            </dd>
+            
+            <dd class="clear"></dd>
+
+            <dt>Languages</dt>
+            <dd>
+                <p>Spanish - Native<br/>English - Fluent</p>
+            </dd>
+
+            <dd class="clear"></dd>
+
+            <dt>Other Interests</dt>
+            <dd>
+                <strong>Arts and crafts</strong>
+                <p>It is the way for everyone to act out feelings, emotions and connections with the world.</p>
+                <p><i>"Art has the role in education of helping children become like themselves instead of more like everybody else" - Sidney Qurewitz Clemens</i></p>
+                <strong>Music and dance</strong>
+                <p>It is another way to feel yourself free and happy.</p>
+                <p><i>"Music give a soul to the universe, wings to the mind, flight to the imagination and life to everything." - Plato</i></p>
+            </dd>
+
+            <dd class="clear"></dd>
+           
+        </dl>
+        
+        <div class="clear"></div>
+    
+    </div>
+
+</body>
+
+</html>
